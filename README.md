@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sohan Reddy Ganampeta</h1>
 <h3 align="center">Aspiring Data Scientist | Proficient in Machine Learning, Data Engineering, and Big Data Analytics | Seeking Full-Time Opportunities</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 💬 Ask me about **I am a passionate Data Scientist with a Master's degree in Data Science and Business Analytics from The University of North Carolina at Charlotte. With a solid foundation in data engineering, machine learning, and business analytics, I have successfully executed multiple projects and internships, delivering impactful solutions and insights. I am seeking a full-time opportunity where I can leverage my skills in data analysis, predictive modeling, and data visualization to drive business growth and innovation.**
 
 - 📫 How to reach me **sohanredd@gmail.com**
