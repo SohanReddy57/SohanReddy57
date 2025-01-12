@@ -1,15 +1,47 @@
-# Sohan-Reddy-
-<h1 align="center">Hi 👋, I'm Sohan Reddy Ganampeta</h1>
-<h3 align="center">Aspiring Data Scientist | Proficient in Machine Learning, Data Engineering, and Big Data Analytics | Seeking Full-Time Opportunities</h3>
+# Hi 👋, I'm Sohan Reddy Ganampeta  
+**Data Scientist | Machine Learning & Big Data Enthusiast | AI Innovator**
 
+Welcome to my GitHub profile! I'm a results-driven **Data Scientist** with over 5 years of professional experience in **Machine Learning, Data Engineering, and Big Data Analytics**. Holding a Master's degree in **Data Science and Business Analytics** from the University of North Carolina at Charlotte, I've built a strong foundation in crafting **scalable data-driven solutions** that empower decision-making and unlock growth opportunities for businesses.
 
+---
 
-- 💬 Ask me about **I am a passionate Data Scientist with a Master's degree in Data Science and Business Analytics from The University of North Carolina at Charlotte. With a solid foundation in data engineering, machine learning, and business analytics, I have successfully executed multiple projects and internships, delivering impactful solutions and insights. I am seeking a full-time opportunity where I can leverage my skills in data analysis, predictive modeling, and data visualization to drive business growth and innovation.**
+## 🌟 About Me  
+- **Passionate Problem Solver:** I thrive on solving complex business challenges through innovative data science techniques, predictive modeling, and advanced analytics.  
+- **Proven Experience:** Successfully executed multiple high-impact projects and internships, specializing in **time series forecasting, recommendation systems, NLP, and predictive modeling** using tools like Python, TensorFlow, PyTorch, and SQL.  
+- **Big Data Expertise:** Hands-on experience with **Apache Spark, Hadoop, Databricks, Google BigQuery**, and building data pipelines using **Airflow, Kubernetes, and CI/CD workflows**.  
+- **Visualization & Insights:** Proficient in creating interactive dashboards with **Tableau, Power BI, and Python libraries** like Matplotlib and Plotly to translate data into actionable business insights.  
+- **Generative AI Enthusiast:** Skilled in fine-tuning LLMs (GPT, LLAMA2) and leveraging frameworks like **LangChain** for conversational AI solutions and business automation.  
 
-- 📫 How to reach me **sohanredd@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AT8hWhCJ27HmCwUEcJn0kf6U-SJQx3DU/view?usp=sharing](https://drive.google.com/file/d/1AT8hWhCJ27HmCwUEcJn0kf6U-SJQx3DU/view?usp=sharing)
+## 🔧 Technical Skillset  
+- **Programming Languages:** Python, R, SQL, MATLAB, SAS  
+- **Machine Learning & AI:** Regression, Classification, NLP, LLMs, Time Series Forecasting, Deep Learning (CNNs, RNNs, GANs)  
+- **Big Data & Cloud Platforms:** GCP, AWS, Azure, Spark, Hadoop, Databricks  
+- **DevOps & Automation:** Docker, Kubernetes, Apache Airflow, CI/CD Pipelines  
+- **Visualization Tools:** Tableau, Power BI, Seaborn, Plotly, D3.js  
 
+---
+
+## 📌 Featured Projects  
+- **[Tennis Betting Prediction](https://github.com/SohanReddy57/Tennis-betting):** Built a machine learning model to predict outcomes in tennis matches, integrating feature engineering and time series forecasting.  
+- **[Customer Lifetime Value Prediction](https://github.com/):** Developed a predictive model for high-value customer retention using regression and clustering techniques.  
+- **[Generative AI-Powered Chatbot](https://github.com/):** Created an LLM-based conversational assistant leveraging **LangChain** and **Hugging Face** embeddings.  
+- **[Market Basket Analysis](https://github.com/):** Designed a recommendation system for grocery chains to optimize product placement and sales strategies.  
+
+---
+
+## 🚀 Seeking Opportunities  
+I’m actively looking for full-time roles as a **Data Scientist or AI/ML Engineer** where I can contribute to solving critical business problems, optimizing operations, and driving innovation with data.  
+
+Let’s connect!  
+📧 Email: [sohanreddy547@gmail.com](mailto:sohanreddy547@gmail.com)  
+🔗 LinkedIn: [Sohan Reddy Ganampeta](https://www.linkedin.com/in/sohan-reddy-g/)  
+
+---
+
+## Let's Build Something Awesome Together!  
+Feel free to explore my repositories and reach out if you have any questions or opportunities to collaborate!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sohanredd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohanredd/" height="30" width="40" /></a>
